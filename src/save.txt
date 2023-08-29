@@ -1,0 +1,23 @@
+// Home
+// <>
+    //   <div className="w-full h-full flex flex-col items-center text-center bg-gray-100 text-black">
+    //     <div className="block md:hidden">It's not responsive yet...</div>
+    //     <div className="hidden md:block w-full">
+    //       <Navbar />
+    //       <div className="w-full min-h-screen flex flex-row">
+    //         {/* Sidebar */}
+    //         <Sidebar />
+    //         {/* Card Container */}
+    //         <motion.div
+    //           initial={{ opacity: 0 }}
+    //           animate={{ opacity: 1 }}
+    //           exit={{ opacity: 0 }}
+    //           transition={{ duration: 0.5 }}
+    //           className="w-full h-full"
+    //         >
+    //           <Outlet />
+    //         </motion.div>
+    //       </div>
+    //     </div>
+    //   </div>
+    // </>
